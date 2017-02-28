@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+"My Foo Is Strong" was born from a multitude of concepts pulled from the past of it's creator.  A play on words of "Your Kung Fu is Strong," the title juxtaposes Foo for Fu.  Foo, a <a href="http://en.wikipedia.org/wiki/Metasyntactic_variable">metasyntactic variable</a>, is used to identify any number of topics.  A placeholder name for something under discussion.  As the articles published on this blog are not specific to one particular subject, the usage of the metasyntactic variable <em>foo</em> seemed to fit quite nicely.
